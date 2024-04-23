@@ -1,7 +1,8 @@
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind,react,nextjs,nodejs,vercel,c,cs,cpp,unity,discord,docker,github,gmail,linux,py,pytorch,vscode)](https://skillicons.dev)
 
-[![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mura-Tomo&theme=default)]
+![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mura-Tomo&theme=default)
+![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mura-Tomo&theme=default)
 
 <h1><a href="https://github.com/Mura-Tomo/enigma-website">enigma-website</a></h1>
 大阪公立大学謎解きイベント制作団体「F-enigma」のWebページです。<br>
