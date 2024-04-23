@@ -1,9 +1,6 @@
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind,react,nextjs,nodejs,vercel,c,cs,cpp,unity,discord,docker,github,gmail,linux,py,pytorch,vscode)](https://skillicons.dev)
 
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mura-Tomo)](https://github.com/anuraghazra/github-readme-stats)
-
 <h1><a href="https://github.com/Mura-Tomo/enigma-website">enigma-website</a></h1>
 大阪公立大学謎解きイベント制作団体「F-enigma」のWebページです。<br>
 開発は3人で行っており、私はリーダーとして大部分の開発を担当しました。<br>
@@ -20,3 +17,7 @@ ChatGPTのAPIを用いて、オリジナルキャラクター「ほのか」と�
 <h1><a href="https://github.com/Mura-Tomo/JSAI2024">JSAI2024</a></h1>
 2024年度人工知能学会全国大会に参加予定です。<br>
 タイトル：RLHFを用いたゲームデータに関するLLMの学習手法の検討
+
+<h1><a href="https://github.com/Mura-Tomo/ProgrammingContest">JProgrammingContest</a></h1>
+Atcoderに参加した記録を残すリポジトリです。<br>
+使用言語はC++です。
