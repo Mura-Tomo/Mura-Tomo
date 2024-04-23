@@ -18,6 +18,6 @@ ChatGPTのAPIを用いて、オリジナルキャラクター「ほのか」と�
 2024年度人工知能学会全国大会に参加予定です。<br>
 タイトル：RLHFを用いたゲームデータに関するLLMの学習手法の検討
 
-<h1><a href="https://github.com/Mura-Tomo/ProgrammingContest">JProgrammingContest</a></h1>
+<h1><a href="https://github.com/Mura-Tomo/ProgrammingContest">ProgrammingContest</a></h1>
 Atcoderに参加した記録を残すリポジトリです。<br>
 使用言語はC++です。
