@@ -4,6 +4,8 @@
 ![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mura-Tomo&theme=default)
 ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mura-Tomo&theme=default)
 
+[![Top Langs](https://github-readme-stats-eta-lovat-66.vercel.app/api/top-langs/?username=Mura-Tomo)](https://github.com/anuraghazra/github-readme-stats)
+
 <h1><a href="https://github.com/Mura-Tomo/enigma-website">enigma-website</a></h1>
 大阪公立大学謎解きイベント制作団体「F-enigma」のWebページです。<br>
 開発は3人で行っており、私はリーダーとして大部分の開発を担当しました。<br>
