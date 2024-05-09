@@ -6,6 +6,11 @@
 開発は3人で行っており、私はリーダーとして大部分の開発を担当しました。<br>
 ReactのフレームワークであるNext.jsを用いて開発しています。
 
+<h1><a href="https://github.com/Mura-Tomo/portfolio">portfolio</a></h1>
+私の自己紹介用のWebページです。<br>
+開発は1人で行っており、開発期間は約2日です。<br>
+ReactのフレームワークであるNext.jsを用いて開発しています。
+
 <h1><a href="https://github.com/Mura-Tomo/Honoka">Honoka</a></h1>
 ChatGPTのAPIを用いて、オリジナルキャラクター「ほのか」と会話できるアプリをUnityで作成しました。<br>  
 ほのかは、心優しくてお兄ちゃんが大好きだという設定になっています。<br>
